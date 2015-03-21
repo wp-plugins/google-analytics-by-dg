@@ -27,7 +27,7 @@ function dg_admin_init_google_analytics() {
 }
 
 function dg_admin_menu_google_analytics() {
-  add_management_page('Google Analytics', 'Google Analytics', 'manage_options', 'dg_google_analytics', 'options_page_google_analytics');
+  add_management_page('Google Analytics', 'Google Analytics', 'manage_options', 'dg_google_analytics', 'dg_options_page_google_analytics');
 }
 if (is_admin()) {
   add_action('admin_init', 'dg_admin_init_google_analytics');
