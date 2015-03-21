@@ -21,7 +21,7 @@ For more information visit:
 
 1. Upload `google-analytics-by-dg` folder to the `/wp-content/plugins/` folder
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Add the web property ID from Google Analytics (UA-0000000-0) to the settings (Admin > Settings > Google Analytics)
+3. Add the web property ID from Google Analytics (UA-0000000-0) to the settings (Admin > Tools > Google Analytics)
 
 == Screenshots ==
 
