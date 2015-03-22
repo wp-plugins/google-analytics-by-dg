@@ -1,5 +1,5 @@
 === Google Analytics by DG ===
-Contributors: Debasish Gharami
+Contributors: dgharami
 Donate link: http://www.gotodevelop.com
 Tags: google, analytics, code, UA, code, javascript
 Requires at least: 3.0
